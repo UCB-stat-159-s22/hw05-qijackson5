@@ -1,4 +1,4 @@
-name: ligo
+=name: ligo
 channels:
   - conda-forge
 dependencies:
