@@ -6,7 +6,9 @@
 * This assignment is worth a maximum of **30 points**.
 * Assignment type: **individual**.
 
-For this assignment, you will take use the [LIGO Gravitational Wave Detection Tutorial Notebook](https://github.com/losc-tutorial/LOSC_Event_tutorial/blob/master/index.ipynb) and companion files that are publicly available on Github. With those, you will structure this repository as a reproducible research package, with installable utilities separated into a small Python package, a Conda Environment specification and a new Binder link.
+For this assignment, you will take use the [LIGO Gravitational Wave Detection Tutorial Notebook](https://github.com/losc-tutorial/LOSC_Event_tutorial/blob/master/index.ipynb) and companion files that are publicly available on Github. 
+
+With those, you will structure this repository as a reproducible research package, with installable utilities separated into a small Python package, a Conda Environment specification and a new Binder link.
 
 While the LIGO Open Science Center did a remarkable job offering these notebooks along with supporting code and a usable Binder link, we want you to make some improvements on top of this foundation, for example making certain versions explicit to ensure long-term reproducibility, more cleanly separating the supporting utilities from the code, etc.
 
