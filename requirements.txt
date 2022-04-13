@@ -1,0 +1,7 @@
+h5py==2.10
+scipy==1.2
+numpy==1.16
+matplotlib==2.2
+ipykernel==4.8
+IPython==5.8
+decorator==4.4
